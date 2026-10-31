@@ -2,7 +2,7 @@
 Aplikasi toko komputer Android (Kotlin + Jetpack Compose), data dari DummyJSON.
 
 ## Video Penjelasan & Demo
-https://youtu.be/gPd0rjRBDJw
+https://youtu.be/HMEg1DlXcvY
 
 ## Fitur
 - Daftar seluruh produk
